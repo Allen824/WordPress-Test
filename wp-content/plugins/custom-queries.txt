@@ -1,0 +1,9 @@
+<?php
+/*
+Plugin Name: Custom Queries Plugin
+Description: Plugin to add custom queries to your WordPress site.
+Version: 1.0
+Author: Your Name
+*/
+
+// Your custom queries and code will go here
